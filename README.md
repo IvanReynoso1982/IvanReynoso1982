@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanReynoso1982
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Node.JE, React, Typescript and GraphQL
+- 🌱 I’m currently learning Node.JS,React, Typescript and GraphQL
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 
 
