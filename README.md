@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @IvanReynoso1982
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Node.JS,React, Typescript and GraphQL
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me 
+# 👋 Hi, I’m Ivan Reynoso
 
-<!---
-IvanReynoso1982/IvanReynoso1982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Backend Developer with a **Bachelor’s in Computer Science**.  
+Focused on **Java, Spring Boot, and building scalable backend systems**.
+
+## 🔭 Currently Working On
+- Spring Boot REST APIs
+- PostgreSQL integrations
+- Mini Java OOP projects
+
+## 🌱 Learning
+- Advanced Java Core (Streams, Generics, OOP)
+- Spring Boot + Microservices
+- Unit Testing & JUnit
+
+## 💻 Projects
+- [springboot-hello-api](https://github.com/IvanReynoso1982/springboot-hello-api) — Simple Spring Boot REST API  
+- [early-objects-java](https://github.com/IvanReynoso1982/early-objects-java) — Java OOP exercises
+
+## 📫 How to reach me
+- [LinkedIn](https://https://www.linkedin.com/in/ivan-reynoso-640770116/)
+
