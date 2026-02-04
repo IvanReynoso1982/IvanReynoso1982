@@ -18,5 +18,5 @@ Focused on **Java, Spring Boot, and building scalable backend systems**.
 - [early-objects-java](https://github.com/IvanReynoso1982/early-objects-java) — Java OOP exercises
 
 ## 📫 How to reach me
-- [LinkedIn](https://https://www.linkedin.com/in/ivan-reynoso-640770116/)
+- https://www.linkedin.com/in/ivan-reynoso-640770116/
 
